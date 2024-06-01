@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BtnCore.PcbDoc   2022/1/11  21:33:34
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BtnCore.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T2      20mil (0.508mm)                                           Round             18        PTH        0.00inch (0.00mm)
+T3      24mil (0.6mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T4      30mil (0.762mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T5      32mil (0.8mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T6      35mil (0.9mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T7      53mil (1.35mm)                                            Round             6         PTH        0.00inch (0.00mm)
+T8      150mil (3.81mm)                                           Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              54
+
+Total Processing Time (hh:mm:ss) : 00:00:00

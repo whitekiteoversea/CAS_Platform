@@ -1,0 +1,48 @@
+Altium Designer Pick and Place Locations,,,,,,,
+D:\AD_Project\RS485_CAN_Wireless\Project Outputs for BtnDesignPro\Pick Place for BtnCore.csv,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       12/01/22,,,,,,,
+Time:       09:36,,,,,,,
+Revision:   Not in VersionControl,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mm,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Mid X,Mid Y,Rotation,Description
+U3,NSi1050,Top,SOP8-W2.54,84.8000mm,67.2000mm,0,CAN隔离收发器
+Control Node Extended Bottom Board,Comment,Top,ALIENTEK_PAD1,-25.4000mm,-25.4000mm,0,
+J1,STM32F4&F7_CB,Top,STM32F4&F7_CB,39.0498mm,47.0005mm,180,F429/746 Core Board
+U4,AMS1117-3.3,Top,SOT-223,59.7000mm,22.0000mm,270,3.3V稳压芯片
+L1,Inductor,Top,0603_L,109.9300mm,41.3000mm,180,Inductor
+U2,WRB2405S_3WR2,Top,DCDC_SUCCEED-WRA_S/WRB-1/2/3W,101.3000mm,22.1700mm,270,电源模块
+U1,SP3485,Top,SOP-8,90.1500mm,84.3350mm,0,
+R7,0Ω (0R0) ±1%,Top,0603_R,93.8000mm,65.3300mm,90,贴片电阻
+R6,120Ω (1200) ±1%,Top,0603_R,93.9000mm,69.5000mm,90,贴片电阻
+R5,10KΩ (1002) ±1%,Top,0805_R,81.6000mm,23.7000mm,270,贴片电阻
+R4,10KΩ (1002) ±1%,Top,0805_R,101.7100mm,36.0000mm,360,贴片电阻
+R3,120Ω (1200) ±1%,Top,0603_R,99.1000mm,85.1000mm,360,贴片电阻
+R2,360Ω (3600) ±1%,Top,0603_R,99.1000mm,88.4000mm,0,贴片电阻
+R1,360Ω (3600) ±1%,Top,0603_R,97.5300mm,82.3000mm,180,贴片电阻
+P1,跳线插针,Top,HDR1X2,52.1000mm,15.1300mm,90,"Header, 2-Pin"
+J6,POWER,Top,HEAD2L-0.8,110.7000mm,50.4000mm,90,
+J5,RS485,Top,HEAD2L-0.8,110.7000mm,84.9000mm,90,
+J4,CAN,Top,HEAD2L-0.8,110.7000mm,67.5000mm,90,
+J3,SH1.0-4P-L,Top,SH1.0-4P-L,24.5000mm,12.7000mm,360,4P接插件
+D3,SMC05,Top,SOT-23,103.6270mm,67.4000mm,270,瞬态抑制二极管
+D2,黄灯 0603,Top,0603_LED_S1,95.8300mm,36.0000mm,360,发光二极管
+D1,白灯 0603,Top,0603_LED_S1,81.6000mm,16.1000mm,90,发光二极管
+C13,100nF (104) 10% 50V,Top,0603_C,57.8000mm,13.8000mm,0,贴片电容
+C12,100nF (104) 10% 50V,Top,0603_C,48.4000mm,22.8000mm,90,贴片电容
+C11,22uF (226) ±10% 16V,Top,CASE-B_3528,52.1500mm,23.5000mm,270,钽电容
+C10,1nF (102) 10% 50V,Top,0603_C,99.0000mm,67.5000mm,90,贴片电容
+C9,10uF (106) ±10% 16V,Top,CASE-A_3216,58.4000mm,16.4000mm,180,钽电容
+C8,100nF (104) 10% 50V,Top,0603_C,90.3300mm,74.3000mm,180,贴片电容
+C7,100nF (104) 10% 50V,Top,0603_C,79.2300mm,74.4000mm,360,贴片电容
+C6,Cap Pol1,Top,CAP-E5mm,88.3700mm,14.3000mm,90,Polarized Capacitor (Radial)
+C5,Cap Pol1,Top,CAP-E8mm,88.4000mm,22.9000mm,270,Polarized Capacitor (Radial)
+C4,Cap Pol1,Top,CAP-E5mm,109.8000mm,24.5000mm,0,Polarized Capacitor (Radial)
+C3,Cap Pol1,Top,CAP-E8mm,110.7000mm,34.5000mm,270,Polarized Capacitor (Radial)
+C2,100nF (104) 10% 50V,Top,0603_C,48.6000mm,57.8010mm,270,贴片电容
+C1,100nF (104) 10% 50V,Top,0603_C,92.2000mm,88.4000mm,0,贴片电容
